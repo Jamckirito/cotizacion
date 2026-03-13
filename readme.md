@@ -1,6 +1,6 @@
 # 🛡️ Shutters del Sur EPD — Sistema de Cotizaciones
 
-App web para crear, gestionar y exportar cotizaciones en PDF.
+App web para crear,  y exportar cotizaciones en PDF.
 
 ## Stack
 - **Next.js 14** (App Router)
